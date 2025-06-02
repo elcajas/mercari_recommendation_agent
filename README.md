@@ -47,10 +47,10 @@ ANTHROPIC_API_KEY=your_api_key_here
 
 ## Usage Instructions
 
-Run the agent with your query:
+Run the agent with your query following --request:
 
 ```bash
-python main.py --request "Looking for a black Sony wireless headphone"
+python main.py --request "I'm looking for wireless Sony headphones in black color, preferably new, and under 8000 yen."
 ```
 
 ## Agent Workflow
