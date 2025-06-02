@@ -1,7 +1,7 @@
 # Mercari AI Recommendation Agent
 
 <p align="center">
-  <img src="./docs/agent_workflow.png" alt="Agent Workflow" width="700" />
+  <img src="./images/agent_workflow.png" alt="Agent Workflow" width="700" />
 </p>
 
 ## Table of Contents
